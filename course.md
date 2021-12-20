@@ -1,9 +1,4 @@
-serviette
-lit
+liti
 croq
 ratat
-oeuf
-beurre
-pain
-
-2vin blanc, 2biere
+riz *3
